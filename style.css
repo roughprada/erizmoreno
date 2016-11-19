@@ -1,0 +1,94 @@
+@charset "utf-8";
+/**
+* CSS
+* 
+* @version 1.0
+* @author Eriz Moreno Aranguren
+*/
+* {
+	margin: 600 0 0 0;
+	padding: 0;
+}
+
+body {
+	font-size: 12px;
+	font-family: 'futura_md_btmedium', sans-serif;
+	line-height: 16px;
+	font-weight: regular;
+	background: #fff;
+	word-spacing: 1px;
+}
+
+body.section-1 { }
+body.section-2 { }
+body.section-3 { }
+
+a:link {
+	text-decoration: none;
+	color: #036;
+}
+a:active { text-decoration: none; color: black;}
+a:visited {
+	text-decoration: line-through;
+	color: #999999;
+}
+a:hover { text-decoration: none; color: #909090; }
+
+#content a { text-decoration: none; border-bottom: 0;}
+#content a u { text-decoration: none; border-bottom: 0; }
+
+a img { border: none; }
+
+#menu {
+	width: 300px;
+	overflow: auto;
+	top: 10px;
+	bottom: 0;
+	left: 10px;
+	position: fixed;
+	height: 100%;
+	background-color: none;
+	color: black;
+}
+
+#menu ul {
+	list-style: none;
+	margin: 0 0 12px 0;
+}
+
+#menu ul li.section-title { }
+
+#content {
+	height: 100%;
+	margin: 10px 0 0 300px;
+	top: 0;
+}
+
+.container {
+    padding: 5px 5px 25px 5px;
+}
+
+#content p {
+	width: auto;
+	margin-bottom: 9px;
+}
+
+p {
+    margin: 0 0 9px 0;
+}
+
+h1 { font-size: 32px; }
+h2 { font-size: 24px; }
+h3 { font-size: 16px; }
+h4 { font-size: 12px; }
+
+#img-container	{
+	margin: 300 0 0 0;
+	padding: 0;
+}
+#img-container p	{
+	margin: 0;
+	padding: 0 0 12px 0;
+}
+
+#once { clear: left; }/* CSS Document */

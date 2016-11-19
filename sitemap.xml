@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                      http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>http://erizmoreno.info/</loc>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://erizmoreno.info/index.html</loc>
+    <lastmod>2012-04-05</lastmod>
+    <priority>0.73</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://erizmoreno.info/index es.html</loc>
+    <lastmod>2012-04-05</lastmod>
+    <priority>0.27</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://erizmoreno.info/pages/EN/Projekt_Beton.html</loc>
+    <lastmod>2012-04-28</lastmod>
+    <priority>0.73</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://erizmoreno.info/pages/EN/photo.html</loc>
+    <lastmod>2012-04-28</lastmod>
+    <priority>0.73</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://erizmoreno.info/pages/EN/publications.html</loc>
+    <lastmod>2012-04-05</lastmod>
+    <priority>0.73</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+</urlset>

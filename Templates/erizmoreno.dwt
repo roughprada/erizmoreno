@@ -1,0 +1,111 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Eriz Moreno!</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+
+
+<!--
+
+* {
+	color: #666;
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+	font-weight: bold;
+	text-align: left;
+	text-decoration: none;
+	font-size: 12px;
+	top: 50px;
+}
+		
+		html { 
+			background: url(file:///C|/Users/eriz/Desktop/erizmoreno.info/img/cam-dessau.jpg) no-repeat center center fixed; 
+			-webkit-background-size: cover;
+			-moz-background-size: cover;
+			-o-background-size: cover;
+			background-size: cover;
+		}
+		
+		#page-wrap { width: 400px; margin: 50px auto; padding: 20px; background: white; -moz-box-shadow: 0 0 20px black; -webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 20px black; }
+		p {
+	margin: 0px;
+	text-indent: 0px;
+	text-decoration: none;
+	font-style: normal;
+	font-weight: normal;
+}
+
+-->
+</style>
+<!-- 
+a:hover{text-decoration:none;} 
+a{text-decoration:none;} 
+--> 
+</style> 
+<link href="../Estilos CSS/estilos CSS.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="menu" class="link">
+  <p><a href="../Estilos CSS/home.html">Eriz Moreno</a></p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+</div>
+
+<div id="contenedor">
+  <table width="161" border="0">
+    <tr>
+    <th width="155" scope="row"><a href="../Estilos CSS/madrid.html">Untitled (MADRID)</a></th>
+  </tr>
+  <tr>
+    <th scope="row"><a href="../Estilos CSS/projektbeton.html">Projekt Beton</a></th>
+  </tr>
+  <tr>
+    <th scope="row"><a href="../Estilos CSS/11.html">(1:1)</a></th>
+  </tr>
+  <tr>
+    <th scope="row"><a href="../Estilos CSS/londoniv.html">London IV</a></th>
+  </tr>
+  <tr>
+    <th scope="row">&nbsp;</th>
+  </tr>
+  <tr>
+    <th scope="row"><a href="../Estilos CSS/publications.html">Publications</a></th>
+  </tr>
+  <tr>
+    <th scope="row"><a href="../Estilos CSS/contact.html">Contact</a></th>
+  </tr>
+</table>
+<div class="titulo"><a href="../Estilos CSS/info.html">+info</a><br/>
+</div>
+</div>
+</div>
+<div id="firma2" class="firma">
+  <p>&nbsp;</p>
+  <p>por ejemplo5</p>
+<p>por ejemplo4</p>
+  <p>por ejemplo3</p>
+  <p>por ejemplo2</p>
+  <p><a target="_blank" style="color:#999;  font-size:10px;" href="http://heyheyhey-approachestothecity.tumblr.com/"></a>por ejemplo1</p>
+</div>
+<p>&nbsp;</p>
+<p><img src="http://www.sferra.ru/assets/images/_camera/cam6.jpg" alt="cam6" width="320" height="240" align="left" longdesc="http://www.sferra.ru/assets/images/_camera/cam6.jpg" /><img src="http://www.sferra.ru/assets/images/_camera/cam5.jpg" alt="cam5" width="320" height="240" longdesc="http://www.sferra.ru/assets/images/_camera/cam5.jpg" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>
