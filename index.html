@@ -22,28 +22,43 @@
 .nothumb img { display: block; margin: 0; }
 </style>
 
-<script type='text/javascript' src='http://paulkuimet.ee/ndxz-studio/site/js/jquery.js'></script>
-<script type='text/javascript' src='http://paulkuimet.ee/ndxz-studio/site/js/cookie.js'></script>
-<script type='text/javascript' src='http://paulkuimet.ee/ndxz-studio/site/js/jquery.cycle.all.js'></script>
+	/*mobile*/
 
-<script type='text/javascript'>
-path = 'http://paulkuimet.ee/files/gimgs/';
+			@media (max-width:500px) {
+			  h1 {
+			    font-size: 12vw;
+				letter-spacing: 2vw;
+			  }
+			  p {
+			  	font-size: 4vw;
+				font-size-adjust: auto;
+				margin: 50px 5%;
+			  	line-height: 2em;
+			  	align-self: left;
+			  }
+			  h3 {
+				font-size: 3vw;
+				letter-spacing: 0.25vw;
+			  }
+			}
+/*			@media (max-width:1000px) {
+			  h1 {
+			    font-size: 10em;
+			  }
+			  p {
+			  	margin: 50px 10%;
+			  	line-height: 2em;
+			  	word-spacing: 3px;
+			  }
+			}*/
+/*			@media (min-width:992px) {
+			  h1 {
+			    font-size: 1em;
+			  }*/
+			}
+
+		</style>
 	
-$(document).ready(function()
-{
-	setTimeout('move_up()', 1);
-});
-</script>
-	
-<script type='text/javascript'>
-$(document).ready(function(){ 
-	$('#s1').cycle({
-	fx:'fade', 
-	speed:'2000', 
-	timeout: 0, 
-	next:'#next', prev:'#prev'});
-	});
-</script>
 </head>
 	
 <!-- Global site tag (gtag.js) - Google Analytics -->
