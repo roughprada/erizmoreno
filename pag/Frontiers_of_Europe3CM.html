@@ -67,7 +67,30 @@ Remarkable collective exhibitions include: Horizon (2013) at the Guggenheim Muse
   overflow: hidden;
 }
 </style>    
+<style>
+.accordion2 {
+  background-color: #EEEEEE;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  transition: 0.4s;
+}
 
+.active, .accordion2:hover {
+    background-color: #EEEEEE;
+}
+
+.panel2 {
+  padding: 0 18px;
+  display: none;
+  background-color: #EEEEEE;
+  overflow: hidden;
+}
+</style>    
   <!--[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
 <o:AllowPNG/>
@@ -821,21 +844,6 @@ for (i = 0; i < acc.length; i++) {
         </div>
         <nav class="main-nav dropdown-hover">
   <ul id="nav" data-content-field="navigation-mainNav">
-      
-      <button class="accordion">PROJECTS</button>
-<div class="panel">
-    <li><a href="http://erizmoreno.info/pag/Fluggarten2.html">#fluggarten</a></li>
-    <li><a href="http://erizmoreno.info/pag/Ozymandias2.html">#ozymandias</a></li>
-    <li><a href="http://erizmoreno.info/pag/18192013_2.html">18/19/2013</a></li>
-    <li><a href="http://erizmoreno.info/pag/Ararat2.html">Ararat / Ağri Daği</a></li>
-    <li><a href="http://erizmoreno.info/pag/Bratstvo_Jedinstvo2.html">Bratstvo / Jedinstvo</a></li>
-    <li><a href="http://erizmoreno.info/pag/Fest_der_Millionen2.html">Fest der Millionen<br> / Werk der Millionen</a></li>
-    <li><a href="http://erizmoreno.info/pag/Hic_et_Nunc2.html">Hic et Nunc</a></li>
-    <li><a href="http://erizmoreno.info/pag/Projekt_Beton2.html">Projekt Beton</a></li>
-    <li><a href="http://erizmoreno.info/pag/Transfagarasan2.html">Transfăgărășan</a></li>
-    <li><a href="http://erizmoreno.info/pag/Triglav2.html">Triglav</a></li>
-    <li><a href="http://erizmoreno.info/pag/Untitled_(BERLIN)2.html">Untitled (BERLIN)</a></li>
-</div>
   
     <li class="index-collection folder">
         <a href="http://erizmoreno.info/index2.html" rel="index" class="transition-link">HOME</a>
@@ -867,6 +875,39 @@ for (i = 0; i < acc.length; i++) {
     
     </li>
     
+      
+      
+      <button class="accordion2">PROJECTS</button>
+<div class="panel2">
+    <li><a href="http://erizmoreno.info/pag/Fluggarten2.html">#fluggarten</a></li><br>
+    <li><a href="http://erizmoreno.info/pag/Ozymandias2.html">#ozymandias</a></li><br>
+    <li><a href="http://erizmoreno.info/pag/18192013_2.html">18/19/2013</a></li><br>
+    <li><a href="http://erizmoreno.info/pag/Ararat2.html">Ararat / Ağri Daği</a></li><br>
+    <li><a href="http://erizmoreno.info/pag/Bratstvo_Jedinstvo2.html">Bratstvo / Jedinstvo</a></li><br>
+    <li><a href="http://erizmoreno.info/pag/Fest_der_Millionen2.html">Fest der Millionen / Werk der Millionen</a></li><br>
+    <li><a href="http://erizmoreno.info/pag/Hic_et_Nunc2.html">Hic et Nunc</a></li><br>
+    <li><a href="http://erizmoreno.info/pag/Projekt_Beton2.html">Projekt Beton</a></li><br>
+    <li><a href="http://erizmoreno.info/pag/Transfagarasan2.html">Transfăgărășan</a></li><br>
+    <li><a href="http://erizmoreno.info/pag/Triglav2.html">Triglav</a></li><br>
+    <li><a href="http://erizmoreno.info/pag/Untitled_(BERLIN)2.html">Untitled (BERLIN)</a></li>
+</div>
+   <script>
+var acc = document.getElementsByClassName("accordion2");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
+    }
+  });
+}
+</script>
+   
   </ul>
             
 </nav>
@@ -884,6 +925,8 @@ for (i = 0; i < acc.length; i++) {
   
     <div class="project-item clearfix" data-type-name="page" id="yui_3_17_2_1_1612720205590_1018">
       <div class="meta">
+          
+          
         <h1 data-shrink-original-size="10">Frontiers of Europe<br><a span style="font-size: 23px"> Eriz Moreno &<br>Constanze Müller</a></h1>
         <h2><p><a href="https://www.facebook.com/frontiersofeurope?ref=hl" target="_blank">Facebook</a><a href="http://www.mottodistribution.com/shop/armenia-eriz-moreno-aranguren-constanze-muller-motto.html" target="_blank"><br>Motto	
 	distribution, Berlin</a></p></h2>
