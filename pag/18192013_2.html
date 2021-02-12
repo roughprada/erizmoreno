@@ -44,6 +44,40 @@ Remarkable collective exhibitions include: Horizon (2013) at the Guggenheim Muse
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+  li a, .dropbtn {
+  display: inline-block;
+  text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+}
+
+li.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #fff;
+  min-width: 300px;
+  z-index: 1;
+}
+
+.dropdown-content a {
+  padding: 5px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #fff;}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}  
+    
+    
 .accordion {
   background-color: #EEEEEE;
   color: #444;
@@ -778,10 +812,10 @@ for (i = 0; i < acc.length; i++) {
   });
 }
 </script>
- <li class=""><a href="pag/news2.html">NEWS</a></li>
-        <li class=""><a href="pag/publications2.html">PUBLICATIONS</a></li>
-        <li class=""><a href="pag/info2.html">+ INFO</a></li>
-        <li class=""><a href="pag/Frontiers_of_Europe2.html">FRONTIERS OF EUROPE</a></li>         
+<li class=""><a href="pag/news2.html">NEWS</a></li>
+<li class=""><a href="pag/publications2.html">PUBLICATIONS</a></li>
+<li class=""><a href="pag/info2.html">+ INFO</a></li>
+<li class=""><a href="pag/Frontiers_of_Europe2.html">FRONTIERS OF EUROPE</a></li>         
     
   </ul>
 </nav>
@@ -805,11 +839,12 @@ for (i = 0; i < acc.length; i++) {
   });
 </script>
         </div></div>
+        
         <div data-content-field="site-title" class="siteTitle">
 
           
           <h1>
-          <span style="font-weight: 300; font-size: 20px; color: #8A8A8A; font-style: normal;">ERIZ MORENO</span> </h1>
+          <span style="font-weight: 300; font-size: 20px; color: #8A8A8A; font-style: normal;"><a href="http://erizmoreno.info/index2.html" rel="index" class="transition-link">ERIZ MORENO</a></span></h1>
           <script>
             Y.use('squarespace-ui-base', function(Y) {
               Y.one(".siteTitle h1").plug(Y.Squarespace.TextShrink, {
@@ -819,13 +854,36 @@ for (i = 0; i < acc.length; i++) {
           </script>
             
         </div>
-        <nav class="main-nav dropdown-hover">
+         
+<nav>
+        
+<nav class="main-nav dropdown-hover" id="yui_3_17_2_1_1612720205590_976">
+<ul id="nav" data-content-field="navigation-mainNav"><li class="dropdown">
+    
+    <a href="javascript:void(0)" class="dropbtn">PROJECTS</a>
+    <div class="dropdown-content"> 
+        <a href="http://erizmoreno.info/pag/Fluggarten2.html">#fluggarten</a>
+        <a href="http://erizmoreno.info/pag/Ozymandias2.html">#ozymandias</a>
+        <a href="http://erizmoreno.info/pag/18192013_2.html">18/19/2013</a>
+        <a href="http://erizmoreno.info/pag/Ararat2.html">Ararat / Ağri Daği</a>
+        <a href="http://erizmoreno.info/pag/Bratstvo_Jedinstvo2.html">Bratstvo / Jedinstvo</a>
+        <a href="http://erizmoreno.info/pag/Fest_der_Millionen2.html">Fest der Millionen<br> / Werk der Millionen</a>
+        <a href="http://erizmoreno.info/pag/Hic_et_Nunc2.html">Hic et Nunc</a>
+        <a href="http://erizmoreno.info/pag/Projekt_Beton2.html">Projekt Beton</a>
+        <a href="http://erizmoreno.info/pag/Transfagarasan2.html">Transfăgărășan</a>
+        <a href="http://erizmoreno.info/pag/Triglav2.html">Triglav</a>
+        <a href="http://erizmoreno.info/pag/Untitled_(BERLIN)2.html">Untitled (BERLIN)</a>
+    </div>
+</ul>
+</nav> 
+</li>
+
+</nav> 
+          
+    <nav class="main-nav dropdown-hover">
   <ul id="nav" data-content-field="navigation-mainNav">
   
-    <li class="index-collection folder">
-        <a href="http://erizmoreno.info/index2.html" rel="index" class="transition-link">HOME</a>
     
-    </li>
     
     <li class="page-collection">
         <a href="http://erizmoreno.info/pag/news2.html" rel="page" class="transition-link">NEWS</a>
@@ -850,10 +908,8 @@ for (i = 0; i < acc.length; i++) {
     <li class="page-collection">
         <a href="http://erizmoreno.info/pag/Frontiers_of_Europe2.html" rel="page" class="transition-link">FRONTIERS OF EUROPE</a>
     
-    </li>
-    
+      </li>
   </ul>
-            
 </nav>
           
       </header>
