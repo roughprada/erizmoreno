@@ -1,41 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-                      http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  <url>
-    <loc>http://erizmoreno.info/</loc>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://erizmoreno.info/index.html</loc>
-    <lastmod>2012-04-05</lastmod>
-    <priority>0.73</priority>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>http://erizmoreno.info/index es.html</loc>
-    <lastmod>2012-04-05</lastmod>
-    <priority>0.27</priority>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>http://erizmoreno.info/pages/EN/Projekt_Beton.html</loc>
-    <lastmod>2012-04-28</lastmod>
-    <priority>0.73</priority>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>http://erizmoreno.info/pages/EN/photo.html</loc>
-    <lastmod>2012-04-28</lastmod>
-    <priority>0.73</priority>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>http://erizmoreno.info/pages/EN/publications.html</loc>
-    <lastmod>2012-04-05</lastmod>
-    <priority>0.73</priority>
-    <changefreq>monthly</changefreq>
-  </url>
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://erizmoreno.info/</loc>
+  <lastmod>2023-12-29T18:51:18+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://erizmoreno.info/index2.html</loc>
+  <lastmod>2023-12-29T18:51:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://erizmoreno.info/pag/Fluggarten2.html</loc>
+  <lastmod>2023-12-29T18:51:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://erizmoreno.info/pag/Mountains.html</loc>
+  <lastmod>2023-12-29T18:51:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://erizmoreno.info/pag/Ozymandias2.html</loc>
+  <lastmod>2023-12-29T18:51:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://erizmoreno.info/pag/18192013_2.html</loc>
+  <lastmod>2023-12-29T18:51:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://erizmoreno.info/pag/Bratstvo_Jedinstvo2.html</loc>
+  <lastmod>2023-12-29T18:51:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://erizmoreno.info/pag/Fest_der_Millionen2.html</loc>
+  <lastmod>2023-12-29T18:51:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://erizmoreno.info/pag/Minun_v%C3%A4est%C3%B6nsuojani.html</loc>
+  <lastmod>2023-12-29T18:51:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://erizmoreno.info/pag/Hic_et_Nunc2.html</loc>
+  <lastmod>2023-12-29T18:51:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://erizmoreno.info/pag/Projekt_Beton2.html</loc>
+  <lastmod>2023-12-29T18:51:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://erizmoreno.info/pag/Teufelsberg.html</loc>
+  <lastmod>2023-12-29T18:51:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://erizmoreno.info/pag/Transfagarasan2.html</loc>
+  <lastmod>2023-12-29T18:51:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://erizmoreno.info/pag/Untitled_(BERLIN)2.html</loc>
+  <lastmod>2023-12-29T18:51:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://erizmoreno.info/pag/Blindstudie2.html</loc>
+  <lastmod>2023-12-29T18:51:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://erizmoreno.info/pag/Zirrikitua.html</loc>
+  <lastmod>2023-12-29T18:51:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://erizmoreno.info/pag/news2.html</loc>
+  <lastmod>2023-12-29T18:51:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://erizmoreno.info/pag/publications2.html</loc>
+  <lastmod>2023-12-29T18:51:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://erizmoreno.info/pag/info2.html</loc>
+  <lastmod>2023-12-29T18:51:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://erizmoreno.info/pag/Boundaries_of_Europe2.html</loc>
+  <lastmod>2023-12-29T18:51:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://erizmoreno.info/pag/Ararat2.html</loc>
+  <lastmod>2023-12-29T18:51:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://erizmoreno.info/pag/Triglav2.html</loc>
+  <lastmod>2023-12-29T18:51:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://erizmoreno.info/img/18192013/Eriz%20Moreno%20EN.pdf</loc>
+  <lastmod>2023-12-29T18:51:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://erizmoreno.info/img/18192013/Eriz%20Moreno%20-%20Frank%20Samson.pdf</loc>
+  <lastmod>2023-12-29T18:51:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://erizmoreno.info/img/PDF/Projekt%20Beton%20-%20Dossier%20EN.pdf</loc>
+  <lastmod>2023-12-29T18:51:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://erizmoreno.info/img/PDF/Projekt%20Beton%20-%20Dossier%20ES.pdf?mode=window&amp;viewMode=doublePage</loc>
+  <lastmod>2023-12-29T18:51:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://erizmoreno.info/Pamiatnik.pdf</loc>
+  <lastmod>2023-12-29T18:51:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://erizmoreno.info/Josip_Broz_Photographs.pdf</loc>
+  <lastmod>2023-12-29T18:51:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://erizmoreno.info/Yugoslavia_&amp;_Yugoslavians.pdf</loc>
+  <lastmod>2023-12-29T18:51:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://erizmoreno.info/Eriz_Moreno_Portfolio.pdf</loc>
+  <lastmod>2023-12-29T18:51:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://erizmoreno.info/img/PDF/CV%20Eriz%20Moreno%20EN.pdf</loc>
+  <lastmod>2023-12-29T18:51:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://erizmoreno.info/img/PDF/CV%20Eriz%20Moreno%20ES.pdf</loc>
+  <lastmod>2023-12-29T18:51:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
 </urlset>
