@@ -903,7 +903,6 @@ table.MsoNormalTable
           <li><a href="http://erizmoreno.info/pag/Hic_et_Nunc2.html">Hic et Nunc</a><br></li>
           <li><a href="http://erizmoreno.info/pag/Projekt_Beton2.html">Projekt Beton</a><br></li>
           <li><a href="http://erizmoreno.info/pag/Teufelsberg.html">Teufelsberg</a><br></li>
-          <li><a href="http://erizmoreno.info/pag/Transfagarasan2.html">Transfăgărășan</a><br></li>
           <li><a href="http://erizmoreno.info/pag/Untitled_(BERLIN)2.html">Untitled (BERLIN)</a><br></li>
           <li><a href="http://erizmoreno.info/pag/Blindstudie2.html">You - Your time - Your life</a><br></li>
           <li><a href="http://erizmoreno.info/pag/Zirrikitua.html">Zirrikitua</a></li>
@@ -932,24 +931,6 @@ for (i = 0; i < acc.length; i++) {
     
   </ul>
 </nav>
-
-<script>
-  Y.use('node', function(Y) {
-    Y.on('domready', function() {
-      var nav = Y.one('#mobile-navigation');
-      if (nav) {
-        Y.on('click', function(e) {
-          if (!e.target.getAttribute('href')) {
-            nav.toggleClass('sqs-mobile-nav-open');
-            Y.one('body').toggleClass('sqs-mobile-nav-open');
-          }
-        }, '#mobile-navigation-label');
-      }
-    });
-  });
-</script>
-</div>
-</div>
 
 
 <!--JS-->
