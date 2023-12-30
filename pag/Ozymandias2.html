@@ -843,6 +843,24 @@ for (i = 0; i < acc.length; i++) {
   </ul>
 </nav>
 
+<script>
+  Y.use('node', function(Y) {
+    Y.on('domready', function() {
+      var nav = Y.one('#mobile-navigation');
+      if (nav) {
+        Y.on('click', function(e) {
+          if (!e.target.getAttribute('href')) {
+            nav.toggleClass('sqs-mobile-nav-open');
+            Y.one('body').toggleClass('sqs-mobile-nav-open');
+          }
+        }, '#mobile-navigation-label');
+      }
+    });
+  });
+</script>
+</div>
+</div>
+
 
 <!--JS-->
 
